@@ -1,0 +1,11 @@
+{
+  "name": "try-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wliyongfeng/try-github-actions.git",
+  "author": "Yongfeng LI <wliyongfeng@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "hello": "node src/index.js"
+  }
+}
