@@ -6,6 +6,10 @@
   "author": "Yongfeng LI <wliyongfeng@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "hello": "node src/index.js"
+    "hello": "node src/index.js",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^8.28.0"
   }
 }
